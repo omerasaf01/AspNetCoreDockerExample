@@ -39,7 +39,6 @@ $ dotnet AspNetCoreDockerExample.dll
 
 ### Contact
 
-- Software Community: https://discord.gg/dehETrV8HT
-- Contact Email: omerconsept999@gmail.com
+- Contact Email: omerasafkarasu06@gmail.com
 
 Please report bugs or errors
